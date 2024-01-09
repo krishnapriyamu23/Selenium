@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite_Example">
+	<test name="Test1">
+		<classes>
+			<class name="testNGBasic.DataProvider_Example"></class>
+			<class name = "testNGBasic.SoftAssert_Example" ></class>
+		</classes>
+	</test>
+</suite>
